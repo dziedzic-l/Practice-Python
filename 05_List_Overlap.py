@@ -26,7 +26,7 @@ for n in common_numbers:
 
 # Method 2
 # Sets in python has no duplicate elements,
-# so we can use sets to remove duplicates
+# so we can use them to remove duplicates
 common_numbers_set = list(set(common_numbers))
 
 # Print the results
